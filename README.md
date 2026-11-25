@@ -1,39 +1,102 @@
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/archlinux/1793D1" width="70" alt="Arch Linux" />
+<img src="https://cdn.simpleicons.org/archlinux/1793D1" width="75" alt="Arch Linux" />
 
-# hey, i'm lighning 👋
+# lighning_
 
-*just a curious human who loves figuring things out.*
+`curious mind | aspiring developer | linux enthusiast`
 
-### 🌱 currently learning
-
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux" height="48" alt="Python and Linux" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/globe.svg" height="42" width="42" alt="Networking" />
-</p>
+*Understanding things one line of code at a time.*
 
 </div>
 
 ---
 
-### `$ whoami`
+### `~/about_me.c`
 
-- 🐍 Learning Python and building small projects
-- 🐧 Exploring Linux and the terminal
-- 🌐 Learning networking and how the internet works
-- ⚙️ Curious about how computers work under the hood
+```c
+#include <stdio.h>
 
-### `$ philosophy`
+int main(void)
+{
+    char *name = "lighning";
+    char *role = "Human";
 
-> learn by doing, stay curious, keep tinkering.
+    printf("Hey, I'm %s!\n", name);
+    printf("Role: %s\n", role);
+    printf("Always curious, always learning.\n");
+
+    return 0;
+}
+```
+
+### `~/tech_stack`
 
 <div align="center">
 
-*still learning, always exploring. :)*
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,python,js" />
+
+**Web Technologies**
+
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+**Tools & Environment**
+
+<img src="https://skillicons.dev/icons?i=linux,arch,git,github" />
+<br>
+<img src="https://skillicons.dev/icons?i=neovim,vscode" />
+</div>
+
+### `~/currently_exploring`
+
+```c
+const char *interests[] = {
+    "Systems Programming",
+    "Web Development",
+    "Computer Networks",
+    "Linux Internals",
+    "How Computers Work"
+};
+```
+
+- ⚙️ Exploring programming beyond the syntax.
+- 🌐 Learning how the web and internet work.
+- 🐧 Experimenting with Linux and command-line tools.
+- 🧩 Building small projects and learning through practice.
+
+### `~/philosophy`
+
+> Don't just learn how to use things. Understand how they work.
+
+---
+
+<div align="center">
+
+### `a_little_about_my_mindset.c`
+
+```c
+#include <stdbool.h>
+
+int main(void)
+{
+    bool curious = true;
+    bool learning = true;
+
+    while (curious && learning) {
+        explore();
+        experiment();
+        build();
+    }
+
+    return 0;
+}
+```
+
+
+
+*still learning. still building. always exploring.*
 
 </div>
